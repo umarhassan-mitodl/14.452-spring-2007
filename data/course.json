@@ -23,6 +23,7 @@
     "website": "14-452-macroeconomic-theory-ii-spring-2007"
   },
   "course_title": "Macroeconomic Theory II",
+  "hide_download": true,
   "course_description": "This is the second course in the four-quarter graduate sequence in macroeconomics. Its purpose is to introduce the basic models macroeconomists use to study fluctuations. Topics include the basic model or the consumption/saving choice, the RBC model or the labor/leisure choice, non-trivial investment decisions, two-good analysis, money, price setting, the \"new Keynesian\" model, monetary policy, and fiscal policy.\n",
   "department_numbers": [
     "14"
@@ -33,6 +34,7 @@
     "content": "e8f74149-1220-7765-8efc-379cf14d62ed",
     "website": "14-452-macroeconomic-theory-ii-spring-2007"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes"

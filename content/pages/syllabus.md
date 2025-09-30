@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the course description and information about textbooks,
   recommended texts, MATLAB?, recommended citation, and an outline of course topics.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -30,11 +32,11 @@ Recommended Texts
 
 Covers most bases, but is aging:
 
-{{% resource_link "459901f3-d176-4aa5-85d0-3ce48dbcfe13" "![Buy at MIT Press](/images/mp_logo.gif)" %}} \[BF\] Blanchard, O., and S. Fischer. {{% resource_link "459901f3-d176-4aa5-85d0-3ce48dbcfe13" "_Lectures on Macroeconomics_" %}}. Cambridge, MA: MIT Press, 1989. ISBN: 9780262022835.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262022835) \[BF\] Blanchard, O., and S. Fischer. [_Lectures on Macroeconomics_](https://mitpress.mit.edu/9780262022835). Cambridge, MA: MIT Press, 1989. ISBN: 9780262022835.
 
 Focuses more on open economy issues:
 
-{{% resource_link "dd785caf-49e3-4ea4-9858-95c854ffdbbf" "![Buy at MIT Press](/images/mp_logo.gif)" %}} \[OR\] Obstfeld, M., and K. Rogoff. {{% resource_link "dd785caf-49e3-4ea4-9858-95c854ffdbbf" "_Foundations of International Macroeconomics_" %}}. Cambridge, MA: MIT Press, 1996. ISBN: 9780262150477.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262150477) \[OR\] Obstfeld, M., and K. Rogoff. [_Foundations of International Macroeconomics_](https://mitpress.mit.edu/9780262150477). Cambridge, MA: MIT Press, 1996. ISBN: 9780262150477.
 
 Focuses more on nominal rigidities, and the role of monetary policy:
 
@@ -44,7 +46,7 @@ Macroeconomics is a rapidly changing field. To get a sense of the geography, you
 
 Blanchard, O. "What Do We Know About Macroeconomics that Fisher and Wicksell Did Not?" _Quarterly Journal of Economics_ 115, no. 4 (November 2000): 1375-1410.
 
-Woodford, M. "{{% resource_link "0a3c92df-c871-4862-8f5f-f421651c5fc5" "Revolution and Evolution in Twentieth-Century Macroeconomics" %}}." June 1999. Paper presented at Frontiers of the Mind in the Twenty-First Century, U.S. Library of Congress, Washington, DC, June 1999.
+Woodford, M. "[Revolution and Evolution in Twentieth-Century Macroeconomics](http://www.columbia.edu/~mw2230/)." June 1999. Paper presented at Frontiers of the Mind in the Twenty-First Century, U.S. Library of Congress, Washington, DC, June 1999.
 
 For two more recent and more polemical, pieces, you may also want to read:
 
@@ -55,7 +57,7 @@ Mankiw, N. G. "The Macroeconomist as Scientist and Engineer." _Journal of Econom
 MATLAB®
 -------
 
-Finally, I shall assume basic familiarity with MATLAB®. {{% resource_link "fa6cd4c4-34a8-4b18-93d3-10cd9f8c3560" "Dynare" %}}, a set of MATLAB® based programs freely available on the net, is particularly useful to simulate the models we shall see in the course.
+Finally, I shall assume basic familiarity with MATLAB®. [Dynare](https://www.dynare.org/), a set of MATLAB® based programs freely available on the net, is particularly useful to simulate the models we shall see in the course.
 
 Course Outline
 --------------
