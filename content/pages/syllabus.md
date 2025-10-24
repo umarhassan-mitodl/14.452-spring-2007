@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the course description and information about textbooks,
   recommended texts, MATLAB?, recommended citation, and an outline of course topics.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

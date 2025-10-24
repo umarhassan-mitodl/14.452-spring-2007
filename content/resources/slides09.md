@@ -5,8 +5,6 @@ description: This resource contains lecture slides on monetary policy, time cons
 file: /courses/14-452-macroeconomic-theory-ii-spring-2007/4779abf10124dabb8ee12776e837290b_slides09.pdf
 file_size: 195166
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
