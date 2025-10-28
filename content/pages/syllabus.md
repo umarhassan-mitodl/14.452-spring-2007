@@ -30,11 +30,11 @@ Recommended Texts
 
 Covers most bases, but is aging:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262022835) \[BF\] Blanchard, O., and S. Fischer. [_Lectures on Macroeconomics_](https://mitpress.mit.edu/9780262022835). Cambridge, MA: MIT Press, 1989. ISBN: 9780262022835.
+{{% resource_link "1f3284a8-5680-4eaa-9895-b300c8672116" "![Buy at MIT Press](/images/mp_logo.gif)" %}} \[BF\] Blanchard, O., and S. Fischer. {{% resource_link "1f3284a8-5680-4eaa-9895-b300c8672116" "_Lectures on Macroeconomics_" %}}. Cambridge, MA: MIT Press, 1989. ISBN: 9780262022835.
 
 Focuses more on open economy issues:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262150477) \[OR\] Obstfeld, M., and K. Rogoff. [_Foundations of International Macroeconomics_](https://mitpress.mit.edu/9780262150477). Cambridge, MA: MIT Press, 1996. ISBN: 9780262150477.
+{{% resource_link "464a772f-136d-4bae-a57a-05c925eb537a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} \[OR\] Obstfeld, M., and K. Rogoff. {{% resource_link "464a772f-136d-4bae-a57a-05c925eb537a" "_Foundations of International Macroeconomics_" %}}. Cambridge, MA: MIT Press, 1996. ISBN: 9780262150477.
 
 Focuses more on nominal rigidities, and the role of monetary policy:
 
@@ -44,7 +44,7 @@ Macroeconomics is a rapidly changing field. To get a sense of the geography, you
 
 Blanchard, O. "What Do We Know About Macroeconomics that Fisher and Wicksell Did Not?" _Quarterly Journal of Economics_ 115, no. 4 (November 2000): 1375-1410.
 
-Woodford, M. "[Revolution and Evolution in Twentieth-Century Macroeconomics](http://www.columbia.edu/~mw2230/)." June 1999. Paper presented at Frontiers of the Mind in the Twenty-First Century, U.S. Library of Congress, Washington, DC, June 1999.
+Woodford, M. "{{% resource_link "7be70757-62e3-4cab-9a72-60029aa3d402" "Revolution and Evolution in Twentieth-Century Macroeconomics" %}}." June 1999. Paper presented at Frontiers of the Mind in the Twenty-First Century, U.S. Library of Congress, Washington, DC, June 1999.
 
 For two more recent and more polemical, pieces, you may also want to read:
 
@@ -55,7 +55,7 @@ Mankiw, N. G. "The Macroeconomist as Scientist and Engineer." _Journal of Econom
 MATLAB®
 -------
 
-Finally, I shall assume basic familiarity with MATLAB®. [Dynare](https://www.dynare.org/), a set of MATLAB® based programs freely available on the net, is particularly useful to simulate the models we shall see in the course.
+Finally, I shall assume basic familiarity with MATLAB®. {{% resource_link "c97a72ba-b0aa-49a1-9340-1ceaa23f9a72" "Dynare" %}}, a set of MATLAB® based programs freely available on the net, is particularly useful to simulate the models we shall see in the course.
 
 Course Outline
 --------------
